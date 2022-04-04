@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PR Online
+</name>
+</assembly>
+<members>
+<member name="T:PR_Online.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources._error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.approved__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.bookmark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.dislike">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.rejected__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.rejected__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.share">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.spam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.speech_bubble">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.timeline">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.timer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PR_Online.My.Resources.Resources.verified">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_onlineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_online_itemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_onlineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_online_itemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_onlineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTag.pr_online_itemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTagTableAdapters.pr_onlineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTagTableAdapters.pr_online_itemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.UpdateUpdatedRows(PR_Online.DatasetPrTag,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.UpdateInsertedRows(PR_Online.DatasetPrTag,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.UpdateDeletedRows(PR_Online.DatasetPrTag,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.UpdateAll(PR_Online.DatasetPrTag)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PR_Online.DatasetPrTagTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

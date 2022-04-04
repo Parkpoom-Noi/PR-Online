@@ -1,0 +1,182 @@
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\reportPR.rdlc
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR Online.exe.config
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR Online.exe
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR Online.pdb
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR Online.xml
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.BLL.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.DAL.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\EnvDTE.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\stdole.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\Microsoft.MSXML.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.BLL.pdb
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.BLL.xml
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.DAL.pdb
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\PR_Online.DAL.xml
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.PL.vbprojAssemblyReference.cache
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmUrgent.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmApprove.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmChangePass.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmEditPR.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmLogin.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmMain.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmPreApprove.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmPreviews.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmPurchase.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmReport.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.frmScMgr.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.Resources.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.SplashScreen1.resources
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.PL.vbproj.GenerateResource.cache
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\RdlCompile.cache
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\RdlCompile.compiled
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.PL.vbproj.CoreCompileInputs.cache
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR_Online.PL.vbproj.CopyComplete
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR Online.exe
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR Online.xml
+C:\Users\parkpoom\source\repos\PR Online\PR Online\obj\Debug\PR Online.pdb
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\reportPR.rdlc
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR Online.exe.config
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR Online.exe
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR Online.pdb
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR Online.xml
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.BLL.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.DAL.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\EnvDTE.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\stdole.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.BLL.pdb
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.BLL.xml
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.DAL.pdb
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\PR_Online.DAL.xml
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmUrgent.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmApprove.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmChangePass.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmEditPR.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmLogin.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmMain.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmPreApprove.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmPreviews.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmPurchase.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmReport.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.frmScMgr.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.Resources.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.SplashScreen1.resources
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.PL.vbproj.GenerateResource.cache
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.PL.vbproj.CoreCompileInputs.cache
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.PL.vbproj.CopyComplete
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR Online.exe
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR Online.xml
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR Online.pdb
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\bin\Debug\Microsoft.MSXML.dll
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\PR_Online.PL.vbprojAssemblyReference.cache
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\RdlCompile.cache
+C:\Users\parkp\Documents\GitHub\PR-Online\PR Online\obj\Debug\RdlCompile.compiled
